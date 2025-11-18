@@ -6,7 +6,7 @@ LinkedIn: linkedin.com/in/leonardo-rocha
 
 ## RESUMO
 
-Não possuo experiências profisional, mas estou em busca de adquirir novos conhecimentos na tecnologia e adentrar nesse mercado de trabalho.
+Não possuo experiências profissional, mas estou em busca de adquirir novos conhecimentos na tecnologia e adentrar nesse mercado de trabalho.
 
 ## HABILIDADES TÉCNICAS 
 • Linguagens de Programação: Python, JavaScript                                                          
@@ -21,5 +21,5 @@ Cargo: Cabo | Período: Agosto de 2016 - Julho de 2024
 Canoas, RS, Brasil                                                   
 
 ## FORMAÇÃO ACADÊMICA 
-Estácio – Bacharelado em Ciência da Computação (2021 - 2025)                                                  
+Estácio – Bacharelado em Ciência da Computação (2021 - 2026)                                                  
 SENAI-RS – Técnico em Eletrônica Industrial (2013 - 2015)
